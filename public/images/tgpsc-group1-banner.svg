@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgTGPSC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="50%" stop-color="#312e81" />
+      <stop offset="100%" stop-color="#4338ca" />
+    </linearGradient>
+    <linearGradient id="pinkGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgTGPSC)" />
+
+  <circle cx="950" cy="180" r="260" fill="#ec4899" opacity="0.15" />
+  <circle cx="200" cy="460" r="240" fill="#6366f1" opacity="0.2" />
+
+  <rect x="60" y="45" width="300" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <circle cx="82" cy="65" r="8" fill="#38bdf8" />
+  <text x="102" y="71" font-family="system-ui, sans-serif" font-size="15" font-weight="800" fill="#ffffff">
+    TELANGANA TGPSC 2026
+  </text>
+
+  <rect x="910" y="45" width="230" height="40" rx="20" fill="url(#pinkGold)" />
+  <text x="1025" y="71" font-family="system-ui, sans-serif" font-size="15" font-weight="900" fill="#ffffff" text-anchor="middle">
+    TOP EXECUTIVE ROLES
+  </text>
+
+  <text x="60" y="145" font-family="'Segoe UI', Roboto, 'Noto Sans Telugu', sans-serif" font-size="28" font-weight="700" fill="#fde047">
+    తెలంగాణ పబ్లిక్ సర్వీస్ కమిషన్ (TGPSC)
+  </text>
+
+  <text x="60" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="78" font-weight="900" fill="#ffffff">
+    GROUP-1 SERVICES 2026
+  </text>
+
+  <rect x="60" y="265" width="380" height="80" rx="20" fill="#ffffff" />
+  <text x="85" y="323" font-family="system-ui, sans-serif" font-size="46" font-weight="900" fill="#4338ca">
+    563 POSTS
+  </text>
+  <text x="470" y="305" font-family="system-ui, sans-serif" font-size="26" font-weight="800" fill="#ffffff">
+    Deputy Collector, DSP, CTO, Municipal Comm.
+  </text>
+  <text x="470" y="335" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="600" fill="#c7d2fe">
+    డిప్యూటీ కలెక్టర్, డీఎస్పీ మరియు సీటీవో పోస్టులు
+  </text>
+
+  <g transform="translate(60, 380)">
+    <rect x="0" y="0" width="340" height="85" rx="16" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5" />
+    <text x="20" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#c7d2fe">QUALIFICATION</text>
+    <text x="20" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#ffffff">Any Degree (డిగ్రీ)</text>
+
+    <rect x="360" y="0" width="340" height="85" rx="16" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5" />
+    <text x="380" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#c7d2fe">UPPER AGE LIMIT</text>
+    <text x="380" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#ffffff">46 Years (Relaxations Applicable)</text>
+
+    <rect x="720" y="0" width="360" height="85" rx="16" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.5" />
+    <text x="740" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#c7d2fe">OFFICIAL PORTAL</text>
+    <text x="740" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#fde047">tspsc.gov.in</text>
+  </g>
+
+  <rect x="60" y="495" width="1080" height="85" rx="18" fill="#ffffff" fill-opacity="0.1" />
+  <text x="90" y="546" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#ffffff">
+    ప్రిలిమ్స్ &amp; మెయిన్స్ సిలబస్, పరీక్ష సరళి పూర్తి వివరాలు
+  </text>
+  <rect x="880" y="510" width="230" height="55" rx="14" fill="url(#pinkGold)" />
+  <text x="995" y="545" font-family="system-ui, sans-serif" font-size="17" font-weight="900" fill="#ffffff" text-anchor="middle">
+    READ SYLLABUS →
+  </text>
+</svg>

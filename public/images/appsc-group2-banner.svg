@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgGroup2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c192c" />
+      <stop offset="50%" stop-color="#142c4f" />
+      <stop offset="100%" stop-color="#091b36" />
+    </linearGradient>
+    <linearGradient id="goldGroup2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#facc15" />
+      <stop offset="100%" stop-color="#f59e0b" />
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGroup2)" />
+
+  <!-- Background flare & circle -->
+  <circle cx="1000" cy="180" r="280" fill="#0284c7" opacity="0.18" />
+  <circle cx="200" cy="480" r="240" fill="#f59e0b" opacity="0.12" />
+
+  <!-- Top bar -->
+  <rect x="60" y="45" width="280" height="38" rx="19" fill="#ffffff" fill-opacity="0.12" />
+  <circle cx="80" cy="64" r="8" fill="#38bdf8" />
+  <text x="100" y="70" font-family="system-ui, sans-serif" font-size="15" font-weight="800" fill="#ffffff" letter-spacing="0.5">
+    APPSC RECRUITMENT 2026
+  </text>
+
+  <rect x="940" y="45" width="200" height="38" rx="19" fill="#10b981" />
+  <text x="1040" y="70" font-family="system-ui, sans-serif" font-size="15" font-weight="900" fill="#ffffff" text-anchor="middle">
+    ONLINE APPLY ACTIVE
+  </text>
+
+  <!-- Telugu Super Title -->
+  <text x="60" y="145" font-family="'Segoe UI', Roboto, 'Noto Sans Telugu', sans-serif" font-size="28" font-weight="700" fill="#fde047">
+    ఆంధ్రప్రదేశ్ పబ్లిక్ సర్వీస్ కమిషన్ (APPSC)
+  </text>
+
+  <!-- Giant Title -->
+  <text x="60" y="235" font-family="system-ui, -apple-system, sans-serif" font-size="76" font-weight="900" fill="#ffffff">
+    GROUP-2 SERVICES
+  </text>
+
+  <!-- Vacancy Callout -->
+  <rect x="60" y="260" width="360" height="80" rx="20" fill="url(#goldGroup2)" />
+  <text x="85" y="318" font-family="system-ui, sans-serif" font-size="48" font-weight="900" fill="#0f172a">
+    897+ POSTS
+  </text>
+  <text x="445" y="300" font-family="system-ui, sans-serif" font-size="26" font-weight="800" fill="#ffffff">
+    Executive &amp; Non-Executive Cadres
+  </text>
+  <text x="445" y="332" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="600" fill="#94a3b8">
+    డిప్యూటీ తహశీల్దార్, సబ్-రిజిస్ట్రార్, అసిస్టెంట్ సెక్షన్ ఆఫీసర్
+  </text>
+
+  <!-- Info Badges -->
+  <g transform="translate(60, 375)">
+    <rect x="0" y="0" width="340" height="85" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+    <text x="20" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#94a3b8">QUALIFICATION</text>
+    <text x="20" y="65" font-family="system-ui, sans-serif" font-size="22" font-weight="900" fill="#38bdf8">Any Degree (డిగ్రీ)</text>
+
+    <rect x="360" y="0" width="340" height="85" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+    <text x="380" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#94a3b8">AGE LIMIT</text>
+    <text x="380" y="65" font-family="system-ui, sans-serif" font-size="22" font-weight="900" fill="#38bdf8">18 - 42 Years (SC/ST 47)</text>
+
+    <rect x="720" y="0" width="360" height="85" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1.5" />
+    <text x="740" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#94a3b8">LAST DATE TO APPLY</text>
+    <text x="740" y="65" font-family="system-ui, sans-serif" font-size="22" font-weight="900" fill="#f87171">10 DECEMBER 2026</text>
+  </g>
+
+  <!-- Bottom Strip -->
+  <rect x="60" y="490" width="1080" height="85" rx="18" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.12" />
+  <text x="90" y="540" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#e2e8f0">
+    సిలబస్, పరీక్ష విధానం, మోడల్ పేపర్స్ &amp; అధికారిక పోర్టల్ లింక్ (psc.ap.gov.in)
+  </text>
+  <rect x="880" y="505" width="230" height="55" rx="14" fill="url(#cyanGrad)" />
+  <text x="995" y="540" font-family="system-ui, sans-serif" font-size="17" font-weight="900" fill="#ffffff" text-anchor="middle">
+    VIEW FULL SYLLABUS →
+  </text>
+</svg>

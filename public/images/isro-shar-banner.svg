@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgISRO" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#022c22" />
+      <stop offset="50%" stop-color="#064e3b" />
+      <stop offset="100%" stop-color="#065f46" />
+    </linearGradient>
+    <linearGradient id="sharOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c" />
+      <stop offset="100%" stop-color="#f97316" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgISRO)" />
+
+  <circle cx="1000" cy="180" r="280" fill="#10b981" opacity="0.15" />
+  <circle cx="200" cy="480" r="240" fill="#ea580c" opacity="0.12" />
+
+  <rect x="60" y="45" width="340" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <circle cx="82" cy="65" r="8" fill="#f97316" />
+  <text x="102" y="71" font-family="system-ui, sans-serif" font-size="15" font-weight="800" fill="#ffffff">
+    ISRO SDSC SHAR SRIHARIKOTA
+  </text>
+
+  <rect x="910" y="45" width="230" height="40" rx="20" fill="url(#sharOrange)" />
+  <text x="1025" y="71" font-family="system-ui, sans-serif" font-size="15" font-weight="900" fill="#ffffff" text-anchor="middle">
+    CENTRAL GOVT JOBS
+  </text>
+
+  <text x="60" y="145" font-family="'Segoe UI', Roboto, 'Noto Sans Telugu', sans-serif" font-size="28" font-weight="700" fill="#fde047">
+    సతీష్ ధావన్ అంతరిక్ష కేంద్రం (షార్), శ్రీహరికోట
+  </text>
+
+  <text x="60" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="76" font-weight="900" fill="#ffffff">
+    ISRO SDSC SHAR 2026
+  </text>
+
+  <rect x="60" y="265" width="360" height="80" rx="20" fill="#ffffff" />
+  <text x="85" y="323" font-family="system-ui, sans-serif" font-size="46" font-weight="900" fill="#065f46">
+    97 POSTS
+  </text>
+  <text x="450" y="305" font-family="system-ui, sans-serif" font-size="26" font-weight="800" fill="#ffffff">
+    MTS, Driver &amp; Technician-B Staff
+  </text>
+  <text x="450" y="335" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="600" fill="#a7f3d0">
+    తిరుపతి జిల్లా శ్రీహరికోటలో శాశ్వత కేంద్ర ప్రభుత్వ ఉద్యోగాలు
+  </text>
+
+  <g transform="translate(60, 380)">
+    <rect x="0" y="0" width="340" height="85" rx="16" fill="#022c22" stroke="#10b981" stroke-width="1.5" />
+    <text x="20" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#a7f3d0">QUALIFICATION</text>
+    <text x="20" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#ffffff">10th Class / ITI / HMV License</text>
+
+    <rect x="360" y="0" width="340" height="85" rx="16" fill="#022c22" stroke="#10b981" stroke-width="1.5" />
+    <text x="380" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#a7f3d0">PAY SCALE</text>
+    <text x="380" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#ffffff">₹18,000 - ₹63,200 (Level 1/2)</text>
+
+    <rect x="720" y="0" width="360" height="85" rx="16" fill="#022c22" stroke="#10b981" stroke-width="1.5" />
+    <text x="740" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#a7f3d0">LAST DATE</text>
+    <text x="740" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#f87171">09 NOVEMBER 2026</text>
+  </g>
+
+  <rect x="60" y="495" width="1080" height="85" rx="18" fill="#ffffff" fill-opacity="0.1" />
+  <text x="90" y="546" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#ffffff">
+    అధికారిక వెబ్‌సైట్: shar.gov.in • వ్రాత పరీక్ష &amp; స్కిల్ టెస్ట్ వివరాలు
+  </text>
+  <rect x="880" y="510" width="230" height="55" rx="14" fill="url(#sharOrange)" />
+  <text x="995" y="545" font-family="system-ui, sans-serif" font-size="17" font-weight="900" fill="#ffffff" text-anchor="middle">
+    APPLY ONLINE →
+  </text>
+</svg>

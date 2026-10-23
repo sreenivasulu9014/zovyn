@@ -1,0 +1,9 @@
+[
+  {
+    "id": "sub_demo_1",
+    "contact": "candidate@example.com",
+    "type": "email",
+    "category": "govt",
+    "createdAt": "2026-03-01T10:00:00Z"
+  }
+]

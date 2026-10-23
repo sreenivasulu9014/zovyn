@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="50%" stop-color="#fbbf24" />
+      <stop offset="100%" stop-color="#fcd34d" />
+    </linearGradient>
+    <linearGradient id="saffronGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ea580c" />
+      <stop offset="50%" stop-color="#f97316" />
+    </linearGradient>
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669" />
+      <stop offset="100%" stop-color="#10b981" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGrad)" />
+
+  <!-- Grid decoration lines -->
+  <g opacity="0.1" stroke="#ffffff" stroke-width="1">
+    <line x1="100" y1="0" x2="100" y2="630" />
+    <line x1="300" y1="0" x2="300" y2="630" />
+    <line x1="500" y1="0" x2="500" y2="630" />
+    <line x1="700" y1="0" x2="700" y2="630" />
+    <line x1="900" y1="0" x2="900" y2="630" />
+    <line x1="1100" y1="0" x2="1100" y2="630" />
+    <line x1="0" y1="150" x2="1200" y2="150" />
+    <line x1="0" y1="300" x2="1200" y2="300" />
+    <line x1="0" y1="450" x2="1200" y2="450" />
+  </g>
+
+  <!-- Glow circle in background -->
+  <circle cx="950" cy="200" r="260" fill="#4338ca" opacity="0.25" />
+  <circle cx="200" cy="450" r="220" fill="#ea580c" opacity="0.2" />
+
+  <!-- Top branding ribbon -->
+  <rect x="60" y="50" width="320" height="42" rx="21" fill="#ffffff" fill-opacity="0.12" stroke="#ffffff" stroke-opacity="0.25" />
+  <circle cx="82" cy="71" r="9" fill="#10b981" />
+  <text x="104" y="77" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#ffffff" letter-spacing="1">
+    ZOVYN.IN • TELUGU JOB ALERT
+  </text>
+
+  <!-- Verified Badge -->
+  <rect x="920" y="50" width="220" height="42" rx="21" fill="url(#emeraldGrad)" />
+  <text x="1030" y="77" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="800" fill="#ffffff" text-anchor="middle">
+    ✓ 100% VERIFIED GOVT JOBS
+  </text>
+
+  <!-- Telugu Heading -->
+  <text x="60" y="150" font-family="'Segoe UI', Roboto, 'Noto Sans Telugu', sans-serif" font-size="28" font-weight="700" fill="#fcd34d">
+    ఆంధ్రప్రదేశ్ తాజా ప్రభుత్వ ఉద్యోగాలు 2026
+  </text>
+
+  <!-- Big Numbers Hero -->
+  <text x="60" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="110" font-weight="900" fill="url(#goldGrad)" letter-spacing="-2">
+    5,852+
+  </text>
+  <text x="490" y="235" font-family="system-ui, -apple-system, sans-serif" font-size="46" font-weight="800" fill="#ffffff">
+    NEW VACANCIES
+  </text>
+  <text x="490" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="32" font-weight="700" fill="#38bdf8">
+    APPSC • AP DSC • POLICE • AEE
+  </text>
+
+  <!-- Badges Grid -->
+  <g transform="translate(60, 330)">
+    <!-- Badge 1: AP DSC -->
+    <rect x="0" y="0" width="250" height="80" rx="16" fill="#1e293b" stroke="#334155" stroke-width="2" />
+    <text x="24" y="34" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#94a3b8">AP DSC TEACHER</text>
+    <text x="24" y="62" font-family="system-ui, sans-serif" font-size="24" font-weight="900" fill="#ffffff">2,721 POSTS</text>
+
+    <!-- Badge 2: APPSC Group 2 -->
+    <rect x="270" y="0" width="250" height="80" rx="16" fill="#1e293b" stroke="#334155" stroke-width="2" />
+    <text x="294" y="34" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#94a3b8">APPSC GROUP-2</text>
+    <text x="294" y="62" font-family="system-ui, sans-serif" font-size="24" font-weight="900" fill="#ffffff">897 POSTS</text>
+
+    <!-- Badge 3: APPSC AEE -->
+    <rect x="540" y="0" width="250" height="80" rx="16" fill="#1e293b" stroke="#334155" stroke-width="2" />
+    <text x="564" y="34" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#94a3b8">APPSC AEE</text>
+    <text x="564" y="62" font-family="system-ui, sans-serif" font-size="24" font-weight="900" fill="#ffffff">503 POSTS</text>
+
+    <!-- Badge 4: ISRO SHAR -->
+    <rect x="810" y="0" width="270" height="80" rx="16" fill="#1e293b" stroke="#334155" stroke-width="2" />
+    <text x="834" y="34" font-family="system-ui, sans-serif" font-size="15" font-weight="700" fill="#94a3b8">ISRO SRIHARIKOTA</text>
+    <text x="834" y="62" font-family="system-ui, sans-serif" font-size="24" font-weight="900" fill="#ffffff">97 POSTS</text>
+  </g>
+
+  <!-- Bottom CTA bar -->
+  <rect x="60" y="460" width="1080" height="110" rx="24" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.15" />
+  <g transform="translate(90, 485)">
+    <text x="0" y="32" font-family="system-ui, sans-serif" font-size="22" font-weight="800" fill="#ffffff">
+      Eligibility: 10th, 12th, ITI, Diploma, Any Degree, B.Tech &amp; PG
+    </text>
+    <text x="0" y="58" font-family="'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="500" fill="#94a3b8">
+      ఆన్‌లైన్ దరఖాస్తు లింకులు మరియు అధికారిక నోటిఫికేషన్ PDF డౌన్‌లోడ్
+    </text>
+
+    <!-- Apply pill -->
+    <rect x="830" y="8" width="220" height="50" rx="14" fill="url(#saffronGrad)" />
+    <text x="940" y="40" font-family="system-ui, sans-serif" font-size="18" font-weight="900" fill="#ffffff" text-anchor="middle">
+      APPLY ONLINE NOW →
+    </text>
+  </g>
+</svg>

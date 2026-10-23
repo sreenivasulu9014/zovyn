@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bgDSC" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#042f2e" />
+      <stop offset="50%" stop-color="#115e59" />
+      <stop offset="100%" stop-color="#0f766e" />
+    </linearGradient>
+    <linearGradient id="tealPill" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#14b8a6" />
+      <stop offset="100%" stop-color="#2dd4bf" />
+    </linearGradient>
+    <linearGradient id="yellowAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgDSC)" />
+
+  <circle cx="1050" cy="150" r="280" fill="#2dd4bf" opacity="0.15" />
+  <circle cx="150" cy="500" r="240" fill="#f59e0b" opacity="0.12" />
+
+  <!-- Top Ribbon -->
+  <rect x="60" y="45" width="340" height="40" rx="20" fill="#ffffff" fill-opacity="0.15" />
+  <circle cx="82" cy="65" r="8" fill="#fde047" />
+  <text x="102" y="71" font-family="system-ui, sans-serif" font-size="15" font-weight="800" fill="#ffffff" letter-spacing="0.5">
+    ANDHRA PRADESH DSC 2026
+  </text>
+
+  <rect x="910" y="45" width="230" height="40" rx="20" fill="url(#yellowAccent)" />
+  <text x="1025" y="71" font-family="system-ui, sans-serif" font-size="15" font-weight="900" fill="#0f172a" text-anchor="middle">
+    MEGA TEACHER BHARTI
+  </text>
+
+  <!-- Telugu Title -->
+  <text x="60" y="145" font-family="'Segoe UI', Roboto, 'Noto Sans Telugu', sans-serif" font-size="28" font-weight="700" fill="#fde047">
+    ఆంధ్రప్రదేశ్ డీఎస్సీ ఉపాధ్యాయ నియామకాలు 2026
+  </text>
+
+  <!-- Big Title -->
+  <text x="60" y="240" font-family="system-ui, -apple-system, sans-serif" font-size="78" font-weight="900" fill="#ffffff">
+    AP DSC TEACHER 2026
+  </text>
+
+  <!-- Vacancy Box -->
+  <rect x="60" y="265" width="400" height="80" rx="20" fill="#ffffff" />
+  <text x="85" y="323" font-family="system-ui, sans-serif" font-size="46" font-weight="900" fill="#0f766e">
+    2,721 POSTS
+  </text>
+  <text x="490" y="305" font-family="system-ui, sans-serif" font-size="26" font-weight="800" fill="#ffffff">
+    SGT, School Assistant, TGT &amp; PGT
+  </text>
+  <text x="490" y="335" font-family="'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="600" fill="#ccfbf1">
+    అన్ని 26 జిల్లాల్లో భారీ ఉపాధ్యాయ ఖాళీలు
+  </text>
+
+  <!-- Highlights -->
+  <g transform="translate(60, 380)">
+    <rect x="0" y="0" width="340" height="85" rx="16" fill="#042f2e" stroke="#14b8a6" stroke-width="1.5" />
+    <text x="20" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#99f6e4">QUALIFICATION</text>
+    <text x="20" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#ffffff">D.El.Ed / B.Ed + AP TET</text>
+
+    <rect x="360" y="0" width="340" height="85" rx="16" fill="#042f2e" stroke="#14b8a6" stroke-width="1.5" />
+    <text x="380" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#99f6e4">EXAM PATTERN</text>
+    <text x="380" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#ffffff">80 Marks DSC + 20 TET</text>
+
+    <rect x="720" y="0" width="360" height="85" rx="16" fill="#042f2e" stroke="#14b8a6" stroke-width="1.5" />
+    <text x="740" y="34" font-family="system-ui, sans-serif" font-size="14" font-weight="700" fill="#99f6e4">OFFICIAL PORTAL</text>
+    <text x="740" y="65" font-family="system-ui, sans-serif" font-size="20" font-weight="900" fill="#fde047">apdsc.apcfss.in</text>
+  </g>
+
+  <!-- Bottom CTA bar -->
+  <rect x="60" y="495" width="1080" height="85" rx="18" fill="#ffffff" fill-opacity="0.1" />
+  <text x="90" y="546" font-family="'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="700" fill="#ffffff">
+    సిలబస్, జిల్లా వారీ ఖాళీల జాబితా &amp; దరఖాస్తు లింక్ అందుబాటులో ఉన్నాయి.
+  </text>
+  <rect x="880" y="510" width="230" height="55" rx="14" fill="url(#yellowAccent)" />
+  <text x="995" y="545" font-family="system-ui, sans-serif" font-size="17" font-weight="900" fill="#0f172a" text-anchor="middle">
+    CHECK DETAILS →
+  </text>
+</svg>
