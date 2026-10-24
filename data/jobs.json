@@ -10,7 +10,10 @@
     "location": "Across Andhra Pradesh (Amaravati, Visakhapatnam, Vijayawada, Tirupati)",
     "state": "Andhra Pradesh",
     "vacancies": "897",
-    "qualification": ["Graduate", "Any Graduate"],
+    "qualification": [
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹28,940 - ₹85,930 (Pay Scale as per AP Revised Pay Rules)",
     "ageLimit": "18 - 42 Years (Age relaxation applicable for reserved categories)",
@@ -52,7 +55,13 @@
     "notificationPdfUrl": "https://psc.ap.gov.in",
     "officialWebsiteUrl": "https://psc.ap.gov.in",
     "teluguTitle": "ఏపీపీఎస్సీ గ్రూప్ 2 నోటిఫికేషన్ 2026: 897 ఎగ్జిక్యూటివ్ & నాన్-ఎగ్జిక్యూటివ్ ఉద్యోగాలు",
-    "tags": ["APPSC", "Group 2", "Andhra Pradesh Jobs", "Sarkari Naukri", "Graduate Jobs"],
+    "tags": [
+      "APPSC",
+      "Group 2",
+      "Andhra Pradesh Jobs",
+      "Sarkari Naukri",
+      "Graduate Jobs"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-15T09:00:00Z",
@@ -70,7 +79,12 @@
     "location": "All 26 Districts in Andhra Pradesh",
     "state": "Andhra Pradesh",
     "vacancies": "2,721",
-    "qualification": ["12th", "Diploma", "Graduate", "Post Graduate"],
+    "qualification": [
+      "12th",
+      "Diploma",
+      "Graduate",
+      "Post Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹32,670 - ₹1,01,970 (State Teacher Pay Scale)",
     "ageLimit": "18 - 44 Years (5 years relaxation for SC/ST/BC)",
@@ -110,7 +124,14 @@
     "applyUrl": "https://apdsc.apcfss.in",
     "notificationPdfUrl": "https://apdsc.apcfss.in",
     "officialWebsiteUrl": "https://apdsc.apcfss.in",
-    "tags": ["AP DSC", "Teacher Jobs", "SGT", "TGT", "PGT", "Andhra Pradesh"],
+    "tags": [
+      "AP DSC",
+      "Teacher Jobs",
+      "SGT",
+      "TGT",
+      "PGT",
+      "Andhra Pradesh"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-16T08:00:00Z",
@@ -128,7 +149,11 @@
     "location": "Sriharikota (Tirupati Dist, Andhra Pradesh)",
     "state": "Andhra Pradesh",
     "vacancies": "97",
-    "qualification": ["10th", "ITI", "Diploma"],
+    "qualification": [
+      "10th",
+      "ITI",
+      "Diploma"
+    ],
     "experience": "Fresher",
     "salary": "₹18,000 - ₹63,200 (Level 1 & Level 2 Pay Matrix) + Central DA & HRA",
     "ageLimit": "18 - 35 Years",
@@ -168,7 +193,14 @@
     "applyUrl": "https://www.shar.gov.in",
     "notificationPdfUrl": "https://www.shar.gov.in",
     "officialWebsiteUrl": "https://www.shar.gov.in",
-    "tags": ["ISRO", "SHAR", "Sriharikota", "10th Pass", "ITI Jobs", "Andhra Pradesh Jobs"],
+    "tags": [
+      "ISRO",
+      "SHAR",
+      "Sriharikota",
+      "10th Pass",
+      "ITI Jobs",
+      "Andhra Pradesh Jobs"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-20T10:00:00Z",
@@ -186,7 +218,9 @@
     "location": "Across Andhra Pradesh",
     "state": "Andhra Pradesh",
     "vacancies": "503",
-    "qualification": ["B.Tech/B.E"],
+    "qualification": [
+      "B.Tech/B.E"
+    ],
     "experience": "Fresher",
     "salary": "₹57,100 - ₹1,47,760 (RPS 2022 Pay Scale)",
     "ageLimit": "18 - 42 Years",
@@ -223,7 +257,13 @@
     "applyUrl": "https://psc.ap.gov.in",
     "notificationPdfUrl": "https://psc.ap.gov.in",
     "officialWebsiteUrl": "https://psc.ap.gov.in",
-    "tags": ["APPSC AEE", "Engineering Jobs", "Civil Engineering", "B.Tech Jobs", "Andhra Pradesh"],
+    "tags": [
+      "APPSC AEE",
+      "Engineering Jobs",
+      "Civil Engineering",
+      "B.Tech Jobs",
+      "Andhra Pradesh"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-18T09:00:00Z",
@@ -241,7 +281,9 @@
     "location": "District Courts across Andhra Pradesh",
     "state": "Andhra Pradesh",
     "vacancies": "119",
-    "qualification": ["Graduate"],
+    "qualification": [
+      "Graduate"
+    ],
     "experience": "0-2 Years",
     "salary": "₹77,840 - ₹1,36,520 (Junior Division Judicial Officer Pay Scale)",
     "ageLimit": "Up to 35 Years",
@@ -278,7 +320,13 @@
     "applyUrl": "https://aphc.gov.in",
     "notificationPdfUrl": "https://aphc.gov.in",
     "officialWebsiteUrl": "https://aphc.gov.in",
-    "tags": ["AP High Court", "Civil Judge", "Law Jobs", "Judicial Services", "Amaravati"],
+    "tags": [
+      "AP High Court",
+      "Civil Judge",
+      "Law Jobs",
+      "Judicial Services",
+      "Amaravati"
+    ],
     "isFeatured": false,
     "isHot": true,
     "postedAt": "2026-10-05T09:00:00Z",
@@ -295,7 +343,11 @@
     "location": "All 26 Districts in Andhra Pradesh",
     "state": "Andhra Pradesh",
     "vacancies": "6,511",
-    "qualification": ["12th", "Graduate", "Any Graduate"],
+    "qualification": [
+      "12th",
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹25,220 - ₹78,910 (Cadet Trainee & Scale of Pay)",
     "ageLimit": "18 - 26 Years for PC, 21 - 29 Years for SI (Relaxations as per AP Govt Orders)",
@@ -337,7 +389,15 @@
     "notificationPdfUrl": "https://slprb.ap.gov.in",
     "officialWebsiteUrl": "https://slprb.ap.gov.in",
     "teluguTitle": "ఆంధ్రప్రదేశ్ పోలీస్ రిక్రూట్‌మెంట్ 2026: 6,511 కానిస్టేబుల్ మరియు ఎస్ఐ ఖాళీలు",
-    "tags": ["AP Police", "Constable", "Sub Inspector", "SLPRB", "Andhra Pradesh Jobs", "12th Pass", "Degree"],
+    "tags": [
+      "AP Police",
+      "Constable",
+      "Sub Inspector",
+      "SLPRB",
+      "Andhra Pradesh Jobs",
+      "12th Pass",
+      "Degree"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-18T10:00:00Z",
@@ -354,7 +414,10 @@
     "location": "Across Telangana (Hyderabad, Warangal, Nizamabad, Karimnagar)",
     "state": "Telangana",
     "vacancies": "563",
-    "qualification": ["Graduate", "Any Graduate"],
+    "qualification": [
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹58,850 - ₹1,37,050 (Pay Scale under Revised Pay Scales)",
     "ageLimit": "18 - 46 Years (General candidates eligible up to 46 years in TS)",
@@ -395,7 +458,14 @@
     "applyUrl": "https://www.tspsc.gov.in",
     "notificationPdfUrl": "https://www.tspsc.gov.in",
     "officialWebsiteUrl": "https://www.tspsc.gov.in",
-    "tags": ["TGPSC", "Group 1", "Telangana Jobs", "Deputy Collector", "Sarkari Naukri", "Graduate Jobs"],
+    "tags": [
+      "TGPSC",
+      "Group 1",
+      "Telangana Jobs",
+      "Deputy Collector",
+      "Sarkari Naukri",
+      "Graduate Jobs"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-14T09:00:00Z",
@@ -412,7 +482,12 @@
     "location": "All India (17 Railway Zones)",
     "state": "All India",
     "vacancies": "18,799",
-    "qualification": ["10th", "ITI", "Diploma", "B.Tech/B.E"],
+    "qualification": [
+      "10th",
+      "ITI",
+      "Diploma",
+      "B.Tech/B.E"
+    ],
     "experience": "Fresher",
     "salary": "₹19,900 (Level-2) + Running Allowances (Gross ₹35,000 - ₹48,000)",
     "ageLimit": "18 - 33 Years (3 years relaxation included)",
@@ -453,7 +528,14 @@
     "applyUrl": "https://indianrailways.gov.in",
     "notificationPdfUrl": "https://indianrailways.gov.in",
     "officialWebsiteUrl": "https://indianrailways.gov.in",
-    "tags": ["Railway", "RRB ALP", "Loco Pilot", "ITI Jobs", "Diploma Jobs", "Railway 2026-27"],
+    "tags": [
+      "Railway",
+      "RRB ALP",
+      "Loco Pilot",
+      "ITI Jobs",
+      "Diploma Jobs",
+      "Railway 2026-27"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-08T08:00:00Z",
@@ -470,7 +552,10 @@
     "location": "Across India",
     "state": "All India",
     "vacancies": "14,800+",
-    "qualification": ["Graduate", "Any Graduate"],
+    "qualification": [
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹35,400 - ₹1,42,400 (Pay Level 4 to Level 8)",
     "ageLimit": "18 - 32 Years (Relaxation as per Govt rules)",
@@ -512,7 +597,14 @@
     "applyUrl": "https://ssc.gov.in",
     "notificationPdfUrl": "https://ssc.gov.in/notice",
     "officialWebsiteUrl": "https://ssc.gov.in",
-    "tags": ["SSC", "CGL", "Central Govt", "Graduate Jobs", "Inspector", "Sarkari Naukri"],
+    "tags": [
+      "SSC",
+      "CGL",
+      "Central Govt",
+      "Graduate Jobs",
+      "Inspector",
+      "Sarkari Naukri"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-10T09:00:00Z",
@@ -529,7 +621,10 @@
     "location": "All India (Zonal Railways)",
     "state": "All India",
     "vacancies": "11,558",
-    "qualification": ["12th", "Graduate"],
+    "qualification": [
+      "12th",
+      "Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹19,900 - ₹35,400 + Allowances (Level 2 to Level 6)",
     "ageLimit": "18 - 36 Years (Age relaxation applicable)",
@@ -571,7 +666,14 @@
     "applyUrl": "https://indianrailways.gov.in",
     "notificationPdfUrl": "https://indianrailways.gov.in",
     "officialWebsiteUrl": "https://indianrailways.gov.in",
-    "tags": ["Railway", "RRB", "NTPC", "Central Govt", "Station Master", "12th Pass Jobs"],
+    "tags": [
+      "Railway",
+      "RRB",
+      "NTPC",
+      "Central Govt",
+      "Station Master",
+      "12th Pass Jobs"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-12T11:00:00Z",
@@ -588,7 +690,10 @@
     "location": "Across India (PNB, BOB, Canara, CBI, etc.)",
     "state": "All India",
     "vacancies": "4,450+",
-    "qualification": ["Graduate", "Any Graduate"],
+    "qualification": [
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹52,000 - ₹65,000 per month (Basic Pay ₹36,000 + DA, HRA, CCA)",
     "ageLimit": "20 - 30 Years",
@@ -631,7 +736,13 @@
     "applyUrl": "https://www.ibps.in",
     "notificationPdfUrl": "https://www.ibps.in",
     "officialWebsiteUrl": "https://www.ibps.in",
-    "tags": ["Bank Jobs", "IBPS", "PO", "Probationary Officer", "Sarkari Bank"],
+    "tags": [
+      "Bank Jobs",
+      "IBPS",
+      "PO",
+      "Probationary Officer",
+      "Sarkari Bank"
+    ],
     "isFeatured": true,
     "isHot": false,
     "postedAt": "2026-10-05T08:30:00Z",
@@ -648,7 +759,11 @@
     "location": "Bengaluru, Hyderabad, Pune, Chennai, Noida, Kolkata",
     "state": "All India",
     "vacancies": "25,000+",
-    "qualification": ["B.Tech/B.E", "BCA/MCA", "Graduate"],
+    "qualification": [
+      "B.Tech/B.E",
+      "BCA/MCA",
+      "Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹3.36 LPA (Ninja) to ₹9.0 LPA (Prime)",
     "ageLimit": "18 - 28 Years",
@@ -688,7 +803,14 @@
     "applyUrl": "https://nextstep.tcs.com",
     "notificationPdfUrl": "https://www.tcs.com/careers",
     "officialWebsiteUrl": "https://www.tcs.com",
-    "tags": ["TCS", "IT Jobs", "Software Engineer", "Freshers", "B.Tech Jobs", "Off Campus"],
+    "tags": [
+      "TCS",
+      "IT Jobs",
+      "Software Engineer",
+      "Freshers",
+      "B.Tech Jobs",
+      "Off Campus"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-12T10:00:00Z",
@@ -705,7 +827,11 @@
     "location": "Bengaluru / Hyderabad (Hybrid)",
     "state": "Karnataka",
     "vacancies": "Multiple",
-    "qualification": ["B.Tech/B.E", "BCA/MCA", "Post Graduate"],
+    "qualification": [
+      "B.Tech/B.E",
+      "BCA/MCA",
+      "Post Graduate"
+    ],
     "experience": "0-2 Years",
     "salary": "₹28,00,000 - ₹45,00,000 CTC (Base + Stocks + Bonus)",
     "ageLimit": "Not Applicable",
@@ -743,7 +869,14 @@
     "eligibilityDetails": "Bachelor's, Master's or PhD degree in Computer Science or related technical field. Experience with one or more general purpose programming languages including but not limited to: Java, C/C++, Python, Go.",
     "applyUrl": "https://careers.google.com",
     "officialWebsiteUrl": "https://google.com/about/careers",
-    "tags": ["Google", "SWE", "MNC", "High Salary", "B.Tech", "Software Developer"],
+    "tags": [
+      "Google",
+      "SWE",
+      "MNC",
+      "High Salary",
+      "B.Tech",
+      "Software Developer"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-16T14:00:00Z",
@@ -760,7 +893,10 @@
     "location": "All India Service",
     "state": "All India",
     "vacancies": "1,056",
-    "qualification": ["Graduate", "Any Graduate"],
+    "qualification": [
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹56,100 - ₹2,50,000 (Pay Level 10 to Cabinet Secretary)",
     "ageLimit": "21 - 32 Years (OBC: 35, SC/ST: 37)",
@@ -802,7 +938,14 @@
     "applyUrl": "https://upsconline.nic.in",
     "notificationPdfUrl": "https://upsc.gov.in",
     "officialWebsiteUrl": "https://upsc.gov.in",
-    "tags": ["UPSC", "IAS", "IPS", "Civil Services", "Govt Officer", "Top Govt Jobs"],
+    "tags": [
+      "UPSC",
+      "IAS",
+      "IPS",
+      "Civil Services",
+      "Govt Officer",
+      "Top Govt Jobs"
+    ],
     "isFeatured": true,
     "isHot": true,
     "postedAt": "2026-10-05T06:00:00Z",
@@ -819,7 +962,9 @@
     "location": "Uttar Pradesh",
     "state": "Uttar Pradesh",
     "vacancies": "22,000+",
-    "qualification": ["12th"],
+    "qualification": [
+      "12th"
+    ],
     "experience": "Fresher",
     "salary": "₹21,700 - ₹69,100 (Pay Scale Band 5200-20200, Grade Pay 2000)",
     "ageLimit": "18 - 25 Years (Age relaxation for UP Domicile)",
@@ -862,7 +1007,14 @@
     "applyUrl": "https://uppbpb.gov.in",
     "notificationPdfUrl": "https://uppbpb.gov.in",
     "officialWebsiteUrl": "https://uppbpb.gov.in",
-    "tags": ["UP Police", "Constable", "12th Pass", "State Govt Jobs", "Uttar Pradesh", "Police Jobs"],
+    "tags": [
+      "UP Police",
+      "Constable",
+      "12th Pass",
+      "State Govt Jobs",
+      "Uttar Pradesh",
+      "Police Jobs"
+    ],
     "isFeatured": false,
     "isHot": true,
     "postedAt": "2026-10-15T12:00:00Z",
@@ -879,7 +1031,11 @@
     "location": "All India (RO HQ & ARO Rallies)",
     "state": "All India",
     "vacancies": "30,000+ Approx",
-    "qualification": ["10th", "12th", "ITI"],
+    "qualification": [
+      "10th",
+      "12th",
+      "ITI"
+    ],
     "experience": "Fresher",
     "salary": "₹30,000 - ₹40,000/month + Seva Nidhi Package ₹11.71 Lakh on exit",
     "ageLimit": "17.5 - 21 Years",
@@ -918,7 +1074,14 @@
     "eligibilityDetails": "Agniveer GD: 10th/Matric with 45% marks in aggregate. Agniveer Tech: 10+2 with Physics, Chemistry, Maths & English. Agniveer Clerk: 10+2 with 60% aggregate. Agniveer Tradesman: 10th or 8th simple pass.",
     "applyUrl": "https://joinindianarmy.nic.in",
     "officialWebsiteUrl": "https://joinindianarmy.nic.in",
-    "tags": ["Indian Army", "Agniveer", "Defence Jobs", "10th Pass", "12th Pass", "Army Rally"],
+    "tags": [
+      "Indian Army",
+      "Agniveer",
+      "Defence Jobs",
+      "10th Pass",
+      "12th Pass",
+      "Army Rally"
+    ],
     "isFeatured": false,
     "isHot": true,
     "postedAt": "2026-10-08T07:00:00Z",
@@ -935,7 +1098,10 @@
     "location": "Districts across Maharashtra",
     "state": "Maharashtra",
     "vacancies": "4,644",
-    "qualification": ["Graduate", "Any Graduate"],
+    "qualification": [
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹25,500 - ₹81,100 (S-8 Pay Matrix) + HRA & DA",
     "ageLimit": "19 - 38 Years (Backward Classes: 43 Years)",
@@ -975,7 +1141,13 @@
     "eligibilityDetails": "Graduate in any stream from recognized University. Knowledge of Marathi language is compulsory. MS-CIT / Computer certification can be submitted within 2 years of joining.",
     "applyUrl": "https://mahabhumi.gov.in",
     "officialWebsiteUrl": "https://mahabhumi.gov.in",
-    "tags": ["Talathi Bharti", "Maharashtra Jobs", "State Govt", "Graduate", "Revenue Department"],
+    "tags": [
+      "Talathi Bharti",
+      "Maharashtra Jobs",
+      "State Govt",
+      "Graduate",
+      "Revenue Department"
+    ],
     "isFeatured": false,
     "isHot": true,
     "postedAt": "2026-10-10T10:00:00Z",
@@ -992,7 +1164,11 @@
     "location": "Bengaluru / Remote",
     "state": "Karnataka",
     "vacancies": "12",
-    "qualification": ["B.Tech/B.E", "BCA/MCA", "Graduate"],
+    "qualification": [
+      "B.Tech/B.E",
+      "BCA/MCA",
+      "Graduate"
+    ],
     "experience": "0-2 Years",
     "salary": "₹12,00,000 - ₹22,00,000 PA + ESOPs",
     "ageLimit": "Not Applicable",
@@ -1028,7 +1204,14 @@
     "eligibilityDetails": "Proficiency in JavaScript/TypeScript, React/Next.js, Node.js or Python (FastAPI). Experience with OpenAI/Anthropic/Gemini APIs, vector databases, and responsive UI with Tailwind.",
     "applyUrl": "https://linkedin.com",
     "officialWebsiteUrl": "https://zovyn.in",
-    "tags": ["AI Engineer", "Next.js", "React", "Fullstack", "High Pay", "Remote Tech Jobs"],
+    "tags": [
+      "AI Engineer",
+      "Next.js",
+      "React",
+      "Fullstack",
+      "High Pay",
+      "Remote Tech Jobs"
+    ],
     "isFeatured": true,
     "isHot": false,
     "postedAt": "2026-10-16T11:00:00Z",
@@ -1045,7 +1228,10 @@
     "location": "Across India",
     "state": "All India",
     "vacancies": "8,283",
-    "qualification": ["Graduate", "Any Graduate"],
+    "qualification": [
+      "Graduate",
+      "Any Graduate"
+    ],
     "experience": "Fresher",
     "salary": "₹29,000 - ₹35,000/month",
     "ageLimit": "20 - 28 Years",
@@ -1080,7 +1266,12 @@
     "eligibilityDetails": "Graduation in any discipline from a recognized University or any equivalent qualification recognized as such by the Central Government.",
     "applyUrl": "https://sbi.co.in/careers",
     "officialWebsiteUrl": "https://sbi.co.in/careers",
-    "tags": ["SBI", "Clerk", "Closed", "Banking"],
+    "tags": [
+      "SBI",
+      "Clerk",
+      "Closed",
+      "Banking"
+    ],
     "isFeatured": false,
     "isHot": false,
     "postedAt": "2026-08-20T08:00:00Z",
